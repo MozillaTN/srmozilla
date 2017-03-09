@@ -1,2 +1,2 @@
-# SRMOZILLA | SRM Unversity | [Mozilla TN](https://github.com/mozillatn)
+# SRMOZILLA | SRM University | [Mozilla TN](https://github.com/mozillatn)
 SRM Ramapuram Campus Website
