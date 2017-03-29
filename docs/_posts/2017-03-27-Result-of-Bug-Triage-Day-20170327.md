@@ -13,7 +13,7 @@ categories: "blog"
 **Hello All!**
 
 <p>The  Bug triage day took place on March 27th 2017.</p>
-<p>The Bug triage day was succesfully done.This time myself alone contributed to the Bug triage  day,Soon I will form a awesome team and we contribute to the mozilla.</p>
+<p>The Bug triage day was succesfully done.This time myself alone contributed to the Bug triage  day,Soon I will form a awesome team and we will contribute to the mozilla.</p>
 
 - [Balajii](https://twitter.com/balaji2198)
 
